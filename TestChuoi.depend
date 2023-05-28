@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631194926 source:d:\c\testchuoi\main.c
+	<stdio.h>
+	<stdlib.h>
+
